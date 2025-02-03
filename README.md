@@ -34,4 +34,5 @@ The team members of this project were:
 * [Aashish Singh](https://github.com/Aashish683)
 * Gunraj Singh
 * Venkat Reddy
+* abhay kumar pal
 * [Arnav Sailesh](https://github.com/ArnavS11)
